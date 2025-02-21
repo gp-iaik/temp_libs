@@ -1,0 +1,358 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.android.identity",
+    "module": "identity-mdoc",
+    "version": "202411.1-69-g6ae69e36-dirty",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.6"
+    }
+  },
+  "variants": [
+    {
+      "name": "metadataApiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.platform.type": "common"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.1.0"
+          }
+        },
+        {
+          "group": "com.android.identity",
+          "module": "identity",
+          "version": {
+            "requires": "202411.1-69-g6ae69e36-dirty"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-datetime",
+          "version": {
+            "requires": "0.6.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-io-core",
+          "version": {
+            "requires": "0.4.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-io-bytestring",
+          "version": {
+            "requires": "0.4.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.8.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "identity-mdoc-metadata-202411.1-69-g6ae69e36-dirty.jar",
+          "url": "identity-mdoc-202411.1-69-g6ae69e36-dirty.jar",
+          "size": 44125,
+          "sha512": "423285a96435accccd72ca8ff2e6ac324139e77738f548de3ef24bb72b91a8834860010a1eccd202d3d6c898965b68374ad9f4de913fa1c7c5e6719215497cac",
+          "sha256": "7f1f232d82a963c104ea279d19d22d779cc69f08fe397b42b8029d5a131e1766",
+          "sha1": "11416666d58350944b3d06e3a8d54a86318afada",
+          "md5": "93b62d760e659bee518f92ea817ad2b9"
+        }
+      ]
+    },
+    {
+      "name": "metadataSourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.platform.type": "common"
+      },
+      "files": [
+        {
+          "name": "identity-mdoc-kotlin-202411.1-69-g6ae69e36-dirty-sources.jar",
+          "url": "identity-mdoc-202411.1-69-g6ae69e36-dirty-sources.jar",
+          "size": 104472,
+          "sha512": "69a43ab3ad2aed2d67aac71c0e16e2da15dcb2459af25a4559dd76a31845f4cd15aa695dcebd8d1a641b65481e52145960758411e9548c4567cfdbf7c7777728",
+          "sha256": "df2f99697598b9b881046a64f0f8c6c105e2e6f1679987d4ba6fde95eecc7a03",
+          "sha1": "ddfdae0eb4a25123a51abec5d2902899530607af",
+          "md5": "6328315cab30a60863f2cf81df1c4d4d"
+        }
+      ]
+    },
+    {
+      "name": "releaseApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "android",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "available-at": {
+        "url": "../../identity-mdoc-android/202411.1-69-g6ae69e36-dirty/identity-mdoc-android-202411.1-69-g6ae69e36-dirty.module",
+        "group": "com.android.identity",
+        "module": "identity-mdoc-android",
+        "version": "202411.1-69-g6ae69e36-dirty"
+      }
+    },
+    {
+      "name": "releaseRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "android",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "available-at": {
+        "url": "../../identity-mdoc-android/202411.1-69-g6ae69e36-dirty/identity-mdoc-android-202411.1-69-g6ae69e36-dirty.module",
+        "group": "com.android.identity",
+        "module": "identity-mdoc-android",
+        "version": "202411.1-69-g6ae69e36-dirty"
+      }
+    },
+    {
+      "name": "releaseSourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.jvm.environment": "android",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "available-at": {
+        "url": "../../identity-mdoc-android/202411.1-69-g6ae69e36-dirty/identity-mdoc-android-202411.1-69-g6ae69e36-dirty.module",
+        "group": "com.android.identity",
+        "module": "identity-mdoc-android",
+        "version": "202411.1-69-g6ae69e36-dirty"
+      }
+    },
+    {
+      "name": "iosArm64ApiElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "ios_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../identity-mdoc-iosarm64/202411.1-69-g6ae69e36-dirty/identity-mdoc-iosarm64-202411.1-69-g6ae69e36-dirty.module",
+        "group": "com.android.identity",
+        "module": "identity-mdoc-iosarm64",
+        "version": "202411.1-69-g6ae69e36-dirty"
+      }
+    },
+    {
+      "name": "iosArm64SourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.native.target": "ios_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../identity-mdoc-iosarm64/202411.1-69-g6ae69e36-dirty/identity-mdoc-iosarm64-202411.1-69-g6ae69e36-dirty.module",
+        "group": "com.android.identity",
+        "module": "identity-mdoc-iosarm64",
+        "version": "202411.1-69-g6ae69e36-dirty"
+      }
+    },
+    {
+      "name": "iosArm64MetadataElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "ios_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../identity-mdoc-iosarm64/202411.1-69-g6ae69e36-dirty/identity-mdoc-iosarm64-202411.1-69-g6ae69e36-dirty.module",
+        "group": "com.android.identity",
+        "module": "identity-mdoc-iosarm64",
+        "version": "202411.1-69-g6ae69e36-dirty"
+      }
+    },
+    {
+      "name": "iosSimulatorArm64ApiElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "ios_simulator_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../identity-mdoc-iossimulatorarm64/202411.1-69-g6ae69e36-dirty/identity-mdoc-iossimulatorarm64-202411.1-69-g6ae69e36-dirty.module",
+        "group": "com.android.identity",
+        "module": "identity-mdoc-iossimulatorarm64",
+        "version": "202411.1-69-g6ae69e36-dirty"
+      }
+    },
+    {
+      "name": "iosSimulatorArm64SourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.native.target": "ios_simulator_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../identity-mdoc-iossimulatorarm64/202411.1-69-g6ae69e36-dirty/identity-mdoc-iossimulatorarm64-202411.1-69-g6ae69e36-dirty.module",
+        "group": "com.android.identity",
+        "module": "identity-mdoc-iossimulatorarm64",
+        "version": "202411.1-69-g6ae69e36-dirty"
+      }
+    },
+    {
+      "name": "iosSimulatorArm64MetadataElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "ios_simulator_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../identity-mdoc-iossimulatorarm64/202411.1-69-g6ae69e36-dirty/identity-mdoc-iossimulatorarm64-202411.1-69-g6ae69e36-dirty.module",
+        "group": "com.android.identity",
+        "module": "identity-mdoc-iossimulatorarm64",
+        "version": "202411.1-69-g6ae69e36-dirty"
+      }
+    },
+    {
+      "name": "iosX64ApiElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "ios_x64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../identity-mdoc-iosx64/202411.1-69-g6ae69e36-dirty/identity-mdoc-iosx64-202411.1-69-g6ae69e36-dirty.module",
+        "group": "com.android.identity",
+        "module": "identity-mdoc-iosx64",
+        "version": "202411.1-69-g6ae69e36-dirty"
+      }
+    },
+    {
+      "name": "iosX64SourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.native.target": "ios_x64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../identity-mdoc-iosx64/202411.1-69-g6ae69e36-dirty/identity-mdoc-iosx64-202411.1-69-g6ae69e36-dirty.module",
+        "group": "com.android.identity",
+        "module": "identity-mdoc-iosx64",
+        "version": "202411.1-69-g6ae69e36-dirty"
+      }
+    },
+    {
+      "name": "iosX64MetadataElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "ios_x64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../identity-mdoc-iosx64/202411.1-69-g6ae69e36-dirty/identity-mdoc-iosx64-202411.1-69-g6ae69e36-dirty.module",
+        "group": "com.android.identity",
+        "module": "identity-mdoc-iosx64",
+        "version": "202411.1-69-g6ae69e36-dirty"
+      }
+    },
+    {
+      "name": "jvmApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "available-at": {
+        "url": "../../identity-mdoc-jvm/202411.1-69-g6ae69e36-dirty/identity-mdoc-jvm-202411.1-69-g6ae69e36-dirty.module",
+        "group": "com.android.identity",
+        "module": "identity-mdoc-jvm",
+        "version": "202411.1-69-g6ae69e36-dirty"
+      }
+    },
+    {
+      "name": "jvmRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "available-at": {
+        "url": "../../identity-mdoc-jvm/202411.1-69-g6ae69e36-dirty/identity-mdoc-jvm-202411.1-69-g6ae69e36-dirty.module",
+        "group": "com.android.identity",
+        "module": "identity-mdoc-jvm",
+        "version": "202411.1-69-g6ae69e36-dirty"
+      }
+    },
+    {
+      "name": "jvmSourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "available-at": {
+        "url": "../../identity-mdoc-jvm/202411.1-69-g6ae69e36-dirty/identity-mdoc-jvm-202411.1-69-g6ae69e36-dirty.module",
+        "group": "com.android.identity",
+        "module": "identity-mdoc-jvm",
+        "version": "202411.1-69-g6ae69e36-dirty"
+      }
+    }
+  ]
+}
