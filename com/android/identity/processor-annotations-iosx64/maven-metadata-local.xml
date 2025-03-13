@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.android.identity</groupId>
-  <artifactId>processor-annotations-jvm</artifactId>
+  <artifactId>processor-annotations-iosx64</artifactId>
   <versioning>
     <latest>202411.1-69-g6ae69e36-dirty</latest>
     <release>202411.1-69-g6ae69e36-dirty</release>

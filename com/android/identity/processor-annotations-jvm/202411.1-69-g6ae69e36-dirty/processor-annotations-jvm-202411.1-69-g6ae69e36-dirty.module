@@ -38,10 +38,10 @@
           "name": "processor-annotations-jvm-202411.1-69-g6ae69e36-dirty.jar",
           "url": "processor-annotations-jvm-202411.1-69-g6ae69e36-dirty.jar",
           "size": 6372,
-          "sha512": "381d0587b893e54b0e646eba0a6643271521b269feaa43e8acf9ea347cd70bddf4a19cefb4e2b50975480583c27552daa6e2691d920d9001c1b12f9bc09ef480",
-          "sha256": "f68ee3ff87f2fb0f49c364e37f4813053a837b4acc7d58f0506058f78856da2d",
-          "sha1": "3fc27c4355f3c16c2066466162fa19d7213c8e5b",
-          "md5": "663eb706d6145691cf490ccd7c99fd18"
+          "sha512": "c6af2732f6d07001561c1bea7190634b00fb7e017e2214b135949880c0e842ce80d22120ff1d5eafb8f7598ff9511548d885af1b3928ce3c04a05286e6f05199",
+          "sha256": "8b43137f5a14d84942c48e81a1f87017c4ff9db07061a5c3d1f1bd329ecbfff7",
+          "sha1": "471e5c982631977ff4c9fae9013f37a633a9781f",
+          "md5": "569dcea2014da095777e7008b5a476c5"
         }
       ]
     },
@@ -68,10 +68,10 @@
           "name": "processor-annotations-jvm-202411.1-69-g6ae69e36-dirty.jar",
           "url": "processor-annotations-jvm-202411.1-69-g6ae69e36-dirty.jar",
           "size": 6372,
-          "sha512": "381d0587b893e54b0e646eba0a6643271521b269feaa43e8acf9ea347cd70bddf4a19cefb4e2b50975480583c27552daa6e2691d920d9001c1b12f9bc09ef480",
-          "sha256": "f68ee3ff87f2fb0f49c364e37f4813053a837b4acc7d58f0506058f78856da2d",
-          "sha1": "3fc27c4355f3c16c2066466162fa19d7213c8e5b",
-          "md5": "663eb706d6145691cf490ccd7c99fd18"
+          "sha512": "c6af2732f6d07001561c1bea7190634b00fb7e017e2214b135949880c0e842ce80d22120ff1d5eafb8f7598ff9511548d885af1b3928ce3c04a05286e6f05199",
+          "sha256": "8b43137f5a14d84942c48e81a1f87017c4ff9db07061a5c3d1f1bd329ecbfff7",
+          "sha1": "471e5c982631977ff4c9fae9013f37a633a9781f",
+          "md5": "569dcea2014da095777e7008b5a476c5"
         }
       ]
     },

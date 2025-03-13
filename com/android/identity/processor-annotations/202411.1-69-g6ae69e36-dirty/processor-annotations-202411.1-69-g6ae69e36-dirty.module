@@ -36,10 +36,10 @@
           "name": "processor-annotations-metadata-202411.1-69-g6ae69e36-dirty.jar",
           "url": "processor-annotations-202411.1-69-g6ae69e36-dirty.jar",
           "size": 6172,
-          "sha512": "91ca1cf398a80b5a4431fa8890ce9ee9fc0479adea5fb98917af94289418c32ece74631e2c0de097abf003c949b714b306e0d7a792ffd3e4b8c262b6400bc351",
-          "sha256": "ff93d453f95a0120f17675230e3d166b49b52bde79e60cf382b667a57408837a",
-          "sha1": "2bdd7712cd719620e124fa7f1bc4bcc13c20c8ff",
-          "md5": "e8ab3182ac35222c9dd32bcf3115a01e"
+          "sha512": "6fb6221aedcb25ead0a7b1728b39bdda9092b662d4076e7fa422577ac0508e0527568ca350e960ea0263517b75a79b321635c0ccdd37515c4f6c17b0a23f399e",
+          "sha256": "2d9558c5c90b647d086ae7894059bff7920a0cf812e510868d223d36ccad68ac",
+          "sha1": "9c49d7d0f4230627b9c5a07d7aebd8c936237af3",
+          "md5": "1f72f936683e7185e1d659ded9d0858d"
         }
       ]
     },
