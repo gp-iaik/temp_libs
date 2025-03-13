@@ -71,10 +71,10 @@
           "name": "identity-mdoc-metadata-202411.1-69-g6ae69e36-dirty.jar",
           "url": "identity-mdoc-202411.1-69-g6ae69e36-dirty.jar",
           "size": 44125,
-          "sha512": "423285a96435accccd72ca8ff2e6ac324139e77738f548de3ef24bb72b91a8834860010a1eccd202d3d6c898965b68374ad9f4de913fa1c7c5e6719215497cac",
-          "sha256": "7f1f232d82a963c104ea279d19d22d779cc69f08fe397b42b8029d5a131e1766",
-          "sha1": "11416666d58350944b3d06e3a8d54a86318afada",
-          "md5": "93b62d760e659bee518f92ea817ad2b9"
+          "sha512": "73aef2f15ef230d1210face7c129636326d585cb7fbcd0da00460fe9f7544f2a1d5c18657c21df4e835f84aa9b69a2e5423f8f5226c07b105837872084a2274c",
+          "sha256": "c6013f2c8010bac42b3eb96829987c6961f963a5a38c8e93737cb968876a617e",
+          "sha1": "0fa1861233b832e111a0a946ed5d67e1ba8200f1",
+          "md5": "3d88ee0b294dfadd81c2a5730c4579c1"
         }
       ]
     },

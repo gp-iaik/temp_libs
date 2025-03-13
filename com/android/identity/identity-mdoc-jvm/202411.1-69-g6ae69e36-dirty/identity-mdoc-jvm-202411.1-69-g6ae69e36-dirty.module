@@ -38,10 +38,10 @@
           "name": "identity-mdoc-jvm-202411.1-69-g6ae69e36-dirty.jar",
           "url": "identity-mdoc-jvm-202411.1-69-g6ae69e36-dirty.jar",
           "size": 362875,
-          "sha512": "49e4eaf7a658ea49042eaf01e1732d066963631478062530f5ae2be43f1e94d9ac58226e0972134d8331f0ec732dd3c1e64684725330d14d7c69766813693558",
-          "sha256": "3c29ee50b9ecdaafb5bfb6f66c74d3fb6e402d930f334075fbedd567f1e2c406",
-          "sha1": "c940c902c9a20d72d05b2b09cfda1a1fa1e476f4",
-          "md5": "b8f6af533549170b446958008a884102"
+          "sha512": "9fa42523a0ab963e4dee4134a4352e722c160893c1d7973fe0164a29271699ff724c8eceec1535d934dd2eb12e006bca76f213281c3c713787f7514a643d0ec9",
+          "sha256": "68af87d9c7c9619ccd38d94456d053de9d17a0ef0cfc6a08519a882349ff7d8d",
+          "sha1": "3cac87803bb56d10c1c207bda7b5b4c22357a87e",
+          "md5": "391f3db42ff9228604527c9492a0069d"
         }
       ]
     },
@@ -124,10 +124,10 @@
           "name": "identity-mdoc-jvm-202411.1-69-g6ae69e36-dirty.jar",
           "url": "identity-mdoc-jvm-202411.1-69-g6ae69e36-dirty.jar",
           "size": 362875,
-          "sha512": "49e4eaf7a658ea49042eaf01e1732d066963631478062530f5ae2be43f1e94d9ac58226e0972134d8331f0ec732dd3c1e64684725330d14d7c69766813693558",
-          "sha256": "3c29ee50b9ecdaafb5bfb6f66c74d3fb6e402d930f334075fbedd567f1e2c406",
-          "sha1": "c940c902c9a20d72d05b2b09cfda1a1fa1e476f4",
-          "md5": "b8f6af533549170b446958008a884102"
+          "sha512": "9fa42523a0ab963e4dee4134a4352e722c160893c1d7973fe0164a29271699ff724c8eceec1535d934dd2eb12e006bca76f213281c3c713787f7514a643d0ec9",
+          "sha256": "68af87d9c7c9619ccd38d94456d053de9d17a0ef0cfc6a08519a882349ff7d8d",
+          "sha1": "3cac87803bb56d10c1c207bda7b5b4c22357a87e",
+          "md5": "391f3db42ff9228604527c9492a0069d"
         }
       ]
     },

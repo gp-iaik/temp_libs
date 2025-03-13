@@ -1,0 +1,174 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../identity-mdoc/202411.1-69-g6ae69e36-dirty/identity-mdoc-202411.1-69-g6ae69e36-dirty.module",
+    "group": "com.android.identity",
+    "module": "identity-mdoc",
+    "version": "202411.1-69-g6ae69e36-dirty",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.6"
+    }
+  },
+  "variants": [
+    {
+      "name": "iosX64ApiElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "ios_x64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.1.0"
+          }
+        },
+        {
+          "group": "com.android.identity",
+          "module": "identity",
+          "version": {
+            "requires": "202411.1-69-g6ae69e36-dirty"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-datetime",
+          "version": {
+            "requires": "0.6.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-io-core",
+          "version": {
+            "requires": "0.4.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-io-bytestring",
+          "version": {
+            "requires": "0.4.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.8.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "identity-mdoc-iosX64Main-202411.1-69-g6ae69e36-dirty.klib",
+          "url": "identity-mdoc-iosx64-202411.1-69-g6ae69e36-dirty.klib",
+          "size": 412838,
+          "sha512": "c9bf4451ba9c9bc487aa244b597b7eaefbfe3f335d969291d8439629caa2e6bc2935e3899e85d8dcf0c5a9334acf887d5d5706ff9281082d32aa63ea3466f3ca",
+          "sha256": "b63526cc067e35400166dc435aebf9fe2670c816584fe5187e397210180d43c1",
+          "sha1": "ec766d89d5d184768c6a12d33bc17d7a5c138499",
+          "md5": "8cb97de37a845630d13a5ad79db9398a"
+        }
+      ]
+    },
+    {
+      "name": "iosX64SourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.native.target": "ios_x64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "files": [
+        {
+          "name": "identity-mdoc-iosx64-202411.1-69-g6ae69e36-dirty-sources.jar",
+          "url": "identity-mdoc-iosx64-202411.1-69-g6ae69e36-dirty-sources.jar",
+          "size": 104472,
+          "sha512": "907699972d83cc2368eb98678d1c541c69d2dcef224cb4fff69a34fd6c008b74c81987866ed8c465ab43f4081d93b27d16cf5ab008e008e2ebd5aee82b8aa2c7",
+          "sha256": "0aae86cf372707b68dcd43b4dbef7c6cc5cb7e4e056eef90c0bd4dd0c310d2cb",
+          "sha1": "4adb045f85d1ba4f44fa95213eac48a1afb944fb",
+          "md5": "1f297cfebd87bec3e9d040db1514f7b4"
+        }
+      ]
+    },
+    {
+      "name": "iosX64MetadataElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "ios_x64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.1.0"
+          }
+        },
+        {
+          "group": "com.android.identity",
+          "module": "identity",
+          "version": {
+            "requires": "202411.1-69-g6ae69e36-dirty"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-datetime",
+          "version": {
+            "requires": "0.6.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-io-core",
+          "version": {
+            "requires": "0.4.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-io-bytestring",
+          "version": {
+            "requires": "0.4.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.8.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "identity-mdoc-iosx64-202411.1-69-g6ae69e36-dirty-metadata.jar",
+          "url": "identity-mdoc-iosx64-202411.1-69-g6ae69e36-dirty-metadata.jar",
+          "size": 6593,
+          "sha512": "754fd78d9d521cb7168558d0859c9d8747fc45afee4cc1599afff886d2dd36d2a2200994d2c0ed6527cc88d697191eac7a4b89a38be2c81ec1f3ac8c2ddcf2fd",
+          "sha256": "83a0f06bc8b5466cd42d65622e939ca7a7c96b9c6d7425d277dae37c775bca8f",
+          "sha1": "aa1137f4b254ce20d117a41840506eb1ad1621bc",
+          "md5": "cdc01974c75e00e4b25d10443743ca95"
+        }
+      ]
+    }
+  ]
+}

@@ -36,10 +36,10 @@
           "name": "identity-not-kmp-android-202411.1-69-g6ae69e36-dirty.aar",
           "url": "identity-not-kmp-android-202411.1-69-g6ae69e36-dirty.aar",
           "size": 298636,
-          "sha512": "684bc264d5b5df42a42414c875fc231056f0cbef9e1f020aef7b2cc6d49955cd2b9e2b6c98e4889cdb7f99ad4ee2fcca7e64fde2e63ad4ce0e3cf365e1edd401",
-          "sha256": "2042a22f3ffb3e4ee4cc16f889337f0f3be2fdf65ec1ee6d246d81abe41f9dae",
-          "sha1": "6d98afb0ee94d45bf822892315ede59ae8071f4f",
-          "md5": "a9985b44ef17f2845b6b64864b426db4"
+          "sha512": "801cb73e0ebdea753856caba721ee02465487c74ccccda46eba89092f3728164cb02c8329a6b1dba8e0f8bad831bd2c58245c84faef3553e5c64fa38ed0957a3",
+          "sha256": "ff2b45c8ce6335312bd39a8a309390e844fc0928d57647bf67ee5d530699d01b",
+          "sha1": "becc98b635519b75e42894e9bb65c04bc7cf216e",
+          "md5": "621023f533a6e2d846445f8fb954801c"
         }
       ]
     },
@@ -135,10 +135,10 @@
           "name": "identity-not-kmp-android-202411.1-69-g6ae69e36-dirty.aar",
           "url": "identity-not-kmp-android-202411.1-69-g6ae69e36-dirty.aar",
           "size": 298636,
-          "sha512": "684bc264d5b5df42a42414c875fc231056f0cbef9e1f020aef7b2cc6d49955cd2b9e2b6c98e4889cdb7f99ad4ee2fcca7e64fde2e63ad4ce0e3cf365e1edd401",
-          "sha256": "2042a22f3ffb3e4ee4cc16f889337f0f3be2fdf65ec1ee6d246d81abe41f9dae",
-          "sha1": "6d98afb0ee94d45bf822892315ede59ae8071f4f",
-          "md5": "a9985b44ef17f2845b6b64864b426db4"
+          "sha512": "801cb73e0ebdea753856caba721ee02465487c74ccccda46eba89092f3728164cb02c8329a6b1dba8e0f8bad831bd2c58245c84faef3553e5c64fa38ed0957a3",
+          "sha256": "ff2b45c8ce6335312bd39a8a309390e844fc0928d57647bf67ee5d530699d01b",
+          "sha1": "becc98b635519b75e42894e9bb65c04bc7cf216e",
+          "md5": "621023f533a6e2d846445f8fb954801c"
         }
       ]
     },

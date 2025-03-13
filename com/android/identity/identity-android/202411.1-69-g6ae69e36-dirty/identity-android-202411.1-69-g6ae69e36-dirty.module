@@ -36,11 +36,11 @@
         {
           "name": "identity-release.aar",
           "url": "identity-android-202411.1-69-g6ae69e36-dirty.aar",
-          "size": 1037574,
-          "sha512": "89923640c7fb64ffd7797abfb76f8b1ffa0e2e325f539582364e14745bcee3ebff12633c47b48c59e2cc6ca939195da158e4400d3904e8b597d1557da3a79f50",
-          "sha256": "e8a4294738025723fb08ea5018b89d6df93069ad3f3546bce505bf9ccb432f03",
-          "sha1": "0e0679ce8736ad3187abc854c9ee6653f0f4360a",
-          "md5": "e81ace0f5060adbd2d2df86efec47870"
+          "size": 1037487,
+          "sha512": "fdbd5afa7d9a6a0a05ff64155bbd5a1590884dff6caa815bff7a3d88f5172bf4e8bb4ddd8988a409e49208c27a26e4e25104f45d455ec7a777d6d1b220d32c3a",
+          "sha256": "58ec1a758ae77ec5de526e591459e11a352316da2805502b494513e314c3f24c",
+          "sha1": "c749434b5c700f7efa30fd557be2837091c09e8b",
+          "md5": "a4fab4aa401ae1d9eac7f44c21c2b021"
         }
       ]
     },
@@ -415,11 +415,11 @@
         {
           "name": "identity-release.aar",
           "url": "identity-android-202411.1-69-g6ae69e36-dirty.aar",
-          "size": 1037574,
-          "sha512": "89923640c7fb64ffd7797abfb76f8b1ffa0e2e325f539582364e14745bcee3ebff12633c47b48c59e2cc6ca939195da158e4400d3904e8b597d1557da3a79f50",
-          "sha256": "e8a4294738025723fb08ea5018b89d6df93069ad3f3546bce505bf9ccb432f03",
-          "sha1": "0e0679ce8736ad3187abc854c9ee6653f0f4360a",
-          "md5": "e81ace0f5060adbd2d2df86efec47870"
+          "size": 1037487,
+          "sha512": "fdbd5afa7d9a6a0a05ff64155bbd5a1590884dff6caa815bff7a3d88f5172bf4e8bb4ddd8988a409e49208c27a26e4e25104f45d455ec7a777d6d1b220d32c3a",
+          "sha256": "58ec1a758ae77ec5de526e591459e11a352316da2805502b494513e314c3f24c",
+          "sha1": "c749434b5c700f7efa30fd557be2837091c09e8b",
+          "md5": "a4fab4aa401ae1d9eac7f44c21c2b021"
         }
       ]
     },
@@ -438,11 +438,11 @@
         {
           "name": "identity-android-202411.1-69-g6ae69e36-dirty-sources.jar",
           "url": "identity-android-202411.1-69-g6ae69e36-dirty-sources.jar",
-          "size": 286886,
-          "sha512": "c6cd095dee8ff7bd331c85c9a250682dfe993344016100510df240a7163d1a088945369b7b4744eed05b56a69b3c3a54a97f7e9e08ae47ccae3b6e68be14f22d",
-          "sha256": "441023caace13c80de99be1f5125061b8981378fb61bf46d3bbc1d017e1eba1e",
-          "sha1": "02f400aa858a86fbbeb1a7c3ac9fa5a0ab948d18",
-          "md5": "c0ba7e2f09dadfd97e73315ee49b25bf"
+          "size": 286903,
+          "sha512": "9238de7e7c7e53677316dc1fa20ce2f3914db883309bad0944bd5b3944a9cb44f001b8e663c160190461108de08d57d75c8518d85593da4af23616df0347e735",
+          "sha256": "9c2f4ac93dd25e7e51ceed3b465b004a5d42c651cf6ab28235965642e9daf7ea",
+          "sha1": "b1dbbc288b728f96be38427d8d108b5dbb2c668a",
+          "md5": "81b5e05230fe778ef9e11d11afd78f7f"
         }
       ]
     }

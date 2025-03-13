@@ -37,10 +37,10 @@
           "name": "identity-mdoc-release.aar",
           "url": "identity-mdoc-android-202411.1-69-g6ae69e36-dirty.aar",
           "size": 410669,
-          "sha512": "b5197fb28123e9848dda6e562290927e541864d0382be5f00dbaf1fabc91a4185974bc337a82b62de0033bee95d923efba486a9eb0a4d62221728a4d8d0bd412",
-          "sha256": "355fefb4083cde95d16c97ef61e750dbee9ae487801877ce2647353768c3b9a9",
-          "sha1": "5d1d3e1dcb737c34c5df76ba440c5fd36c211220",
-          "md5": "15780eb09b337126df9eca2a4d980ace"
+          "sha512": "85d6cff548895526773b2777dbf8f2c53b276bc6ab4c35d06d602f9be06eef266bc1734b7764955cefdd45b3d6941cb26a8047af3472e5f8523df65f12d5165c",
+          "sha256": "48b861591df01b2c957d6352ceebf076cb28b75cee1630f809145c0aadcaa251",
+          "sha1": "f0279a823ce0a4e6219af1edfe6c85e2a9b68127",
+          "md5": "d2b496a78bfc09e93928ca70340d6438"
         }
       ]
     },
@@ -269,10 +269,10 @@
           "name": "identity-mdoc-release.aar",
           "url": "identity-mdoc-android-202411.1-69-g6ae69e36-dirty.aar",
           "size": 410669,
-          "sha512": "b5197fb28123e9848dda6e562290927e541864d0382be5f00dbaf1fabc91a4185974bc337a82b62de0033bee95d923efba486a9eb0a4d62221728a4d8d0bd412",
-          "sha256": "355fefb4083cde95d16c97ef61e750dbee9ae487801877ce2647353768c3b9a9",
-          "sha1": "5d1d3e1dcb737c34c5df76ba440c5fd36c211220",
-          "md5": "15780eb09b337126df9eca2a4d980ace"
+          "sha512": "85d6cff548895526773b2777dbf8f2c53b276bc6ab4c35d06d602f9be06eef266bc1734b7764955cefdd45b3d6941cb26a8047af3472e5f8523df65f12d5165c",
+          "sha256": "48b861591df01b2c957d6352ceebf076cb28b75cee1630f809145c0aadcaa251",
+          "sha1": "f0279a823ce0a4e6219af1edfe6c85e2a9b68127",
+          "md5": "d2b496a78bfc09e93928ca70340d6438"
         }
       ]
     },

@@ -120,10 +120,10 @@
           "name": "identity-metadata-202411.1-69-g6ae69e36-dirty.jar",
           "url": "identity-202411.1-69-g6ae69e36-dirty.jar",
           "size": 164497,
-          "sha512": "825b1a84c92b237303d964b8951146440215f74dc98b65b79c8608007ea9edca6fcb59a015c5f6436a5bec37c9b0789368cba84df5c2a0dcb7ed97ed3a126e21",
-          "sha256": "7c3c00caeb565c563c7a8381e5e58333623d8c2dc9bf8a0c434f41d571d881ed",
-          "sha1": "ee3916fb5149a2adb06d940af76fff5e9fb86a50",
-          "md5": "1faf2b58b3464ff9440ae866639a9328"
+          "sha512": "32b8f5f52d00a3081ef3828790222f68f64d95655b4d0be715e1120d2cd9bc3bf18021fa1246a6fadf06422c0c9e269c116f3861a843836b61f3698fcb3f91db",
+          "sha256": "dc9325bc2ec320eeca0c4cc23a2f53964172ea72aba4ca6947d7871b5a5f3732",
+          "sha1": "79b74e73e37fb526dac9e60946a2309f60c894a8",
+          "md5": "8cead8d75f9789ec3abb4ee1d62a155b"
         }
       ]
     },
@@ -141,11 +141,11 @@
         {
           "name": "identity-kotlin-202411.1-69-g6ae69e36-dirty-sources.jar",
           "url": "identity-202411.1-69-g6ae69e36-dirty-sources.jar",
-          "size": 277218,
-          "sha512": "4856a6bba99781b1e4385dc977dab6fdd666fcf3259575cae3439f1f44db661d79406ae3563ff33aaca57dca7c64e5b49194621cd8bdd1bea3561ebb3e1081b7",
-          "sha256": "a086fa5f6ebb95d4fb665c3bbc9e85a7e9d677fb1280a11a31e70c6e234439e6",
-          "sha1": "8128697059fd53571fbeb71e679f0b8bd8f63992",
-          "md5": "aa13ed89fe18bace6c49ae5e9681c424"
+          "size": 277235,
+          "sha512": "6e24a046e27c4cdb6b3e9c8e60cbae30a37c4fdc0b727ba996e266cfcf6f715f1a1b81992f262dd635707d3899c999ebe2ace6d030a615cd0c436c5a812d31e6",
+          "sha256": "66bdb0f5ebc8527031aa462395ab65ab99bfb5c937b1d20c21e5bfc49afc027c",
+          "sha1": "2c7dbdc140ce8babdee9dfa82a834e5f2e852876",
+          "md5": "5bd28795a3ef67e12517652928521286"
         }
       ]
     },

@@ -1,0 +1,397 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../identity/202411.1-69-g6ae69e36-dirty/identity-202411.1-69-g6ae69e36-dirty.module",
+    "group": "com.android.identity",
+    "module": "identity",
+    "version": "202411.1-69-g6ae69e36-dirty",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.6"
+    }
+  },
+  "variants": [
+    {
+      "name": "iosX64ApiElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "ios_x64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.1.0"
+          }
+        },
+        {
+          "group": "androidx.sqlite",
+          "module": "sqlite",
+          "version": {
+            "requires": "2.5.0-alpha12"
+          }
+        },
+        {
+          "group": "androidx.sqlite",
+          "module": "sqlite-framework",
+          "version": {
+            "requires": "2.5.0-alpha12"
+          }
+        },
+        {
+          "group": "io.ktor",
+          "module": "ktor-client-darwin",
+          "version": {
+            "requires": "2.3.10"
+          }
+        },
+        {
+          "group": "com.android.identity",
+          "module": "processor-annotations",
+          "version": {
+            "requires": "202411.1-69-g6ae69e36-dirty"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-io-bytestring",
+          "version": {
+            "requires": "0.4.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-io-core",
+          "version": {
+            "requires": "0.4.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-datetime",
+          "version": {
+            "requires": "0.6.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.8.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-serialization-json",
+          "version": {
+            "requires": "1.7.0"
+          }
+        },
+        {
+          "group": "io.ktor",
+          "module": "ktor-client-core",
+          "version": {
+            "requires": "2.3.10"
+          }
+        },
+        {
+          "group": "io.ktor",
+          "module": "ktor-client-cio",
+          "version": {
+            "requires": "2.3.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.runtime",
+          "module": "runtime",
+          "version": {
+            "requires": "1.7.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "identity-iosX64Main-202411.1-69-g6ae69e36-dirty.klib",
+          "url": "identity-iosx64-202411.1-69-g6ae69e36-dirty.klib",
+          "size": 1091242,
+          "sha512": "221d583373091ded262bae3c2c931661edf71ebd92a013a57bb3006ebed54be850a7f217a1575f18a283ebdcf413a12be6c6938d6d697ce15b5a3c2fbd2aa50d",
+          "sha256": "4cd96e99cd00cc5c90698d0c54435f352d23c7a698e4017d522e3d1026119eb3",
+          "sha1": "4fe74957228a6fbca862218ce0313fe338e06248",
+          "md5": "bc50e85def50294992b548b96ef1945b"
+        },
+        {
+          "name": "identity-iosX64Cinterop-SwiftBridgeMain-202411.1-69-g6ae69e36-dirty.klib",
+          "url": "identity-iosx64-202411.1-69-g6ae69e36-dirty-cinterop-SwiftBridge.klib",
+          "size": 136487,
+          "sha512": "311b59b09c56b3eb62c584a9b88e06cf109a7dd78e638965c95ed8790ede58e626233f97fd9283260053842b1fbd51f82efe4c4f35fe064309b5f8aefc5c4cde",
+          "sha256": "ddfe227dc9b40a909f5ff5c1108fc871ae0633ac96eef23d46a97d7dd5fab79b",
+          "sha1": "f9f6153881e7521f833e7d69399e62941485deaa",
+          "md5": "c5a7a8578f148de066d19009c60099c3"
+        }
+      ]
+    },
+    {
+      "name": "iosX64SourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.native.target": "ios_x64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "files": [
+        {
+          "name": "identity-iosx64-202411.1-69-g6ae69e36-dirty-sources.jar",
+          "url": "identity-iosx64-202411.1-69-g6ae69e36-dirty-sources.jar",
+          "size": 266298,
+          "sha512": "51c598e1f67c27b06fc5622d578a00c71af1d2b46caee89c41c008bee8537d151390a66dc2f83b7c84c08b1168ae4ad97ae2d8df53f9bdbcceb7216630475e8f",
+          "sha256": "e05171924339d8f7bd62e9efa9069f8284882a3953024b8d63018e965df18c3e",
+          "sha1": "8a61b81c2df389180a440d2c15f2bd466681a63c",
+          "md5": "0fbe68477bbb10ed4f664de327712c5b"
+        }
+      ]
+    },
+    {
+      "name": "iosX64ResourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.libraryelements": "kotlin-multiplatformresources",
+        "org.gradle.usage": "kotlin-multiplatformresources",
+        "org.jetbrains.kotlin.native.target": "ios_x64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.1.0"
+          }
+        },
+        {
+          "group": "androidx.sqlite",
+          "module": "sqlite",
+          "version": {
+            "requires": "2.5.0-alpha12"
+          }
+        },
+        {
+          "group": "androidx.sqlite",
+          "module": "sqlite-framework",
+          "version": {
+            "requires": "2.5.0-alpha12"
+          }
+        },
+        {
+          "group": "io.ktor",
+          "module": "ktor-client-darwin",
+          "version": {
+            "requires": "2.3.10"
+          }
+        },
+        {
+          "group": "com.android.identity",
+          "module": "processor-annotations",
+          "version": {
+            "requires": "202411.1-69-g6ae69e36-dirty"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-io-bytestring",
+          "version": {
+            "requires": "0.4.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-io-core",
+          "version": {
+            "requires": "0.4.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-datetime",
+          "version": {
+            "requires": "0.6.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.8.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-serialization-json",
+          "version": {
+            "requires": "1.7.0"
+          }
+        },
+        {
+          "group": "io.ktor",
+          "module": "ktor-client-core",
+          "version": {
+            "requires": "2.3.10"
+          }
+        },
+        {
+          "group": "io.ktor",
+          "module": "ktor-client-cio",
+          "version": {
+            "requires": "2.3.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.runtime",
+          "module": "runtime",
+          "version": {
+            "requires": "1.7.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "identity-202411.1-69-g6ae69e36-dirty.kotlin_resources.zip",
+          "url": "identity-iosx64-202411.1-69-g6ae69e36-dirty-kotlin_resources.kotlin_resources.zip",
+          "size": 346,
+          "sha512": "8767be0f80cac4c200b76535468ba36f6904902ec121e589e81a02ef54fa2686ad84c6837814afeb479a7c54391a60828c2f0a50e9a986d400a92af08bd7542d",
+          "sha256": "5bb14c24fab27a2d26996b351cc82792fbf8b0909d3b48b7f50966b32deb8213",
+          "sha1": "e5db4a55faaddaafa556318b708cb994cb44b549",
+          "md5": "e680ef9a9b033efa773476fdeda2ef6f"
+        }
+      ]
+    },
+    {
+      "name": "iosX64MetadataElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "ios_x64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.1.0"
+          }
+        },
+        {
+          "group": "androidx.sqlite",
+          "module": "sqlite",
+          "version": {
+            "requires": "2.5.0-alpha12"
+          }
+        },
+        {
+          "group": "androidx.sqlite",
+          "module": "sqlite-framework",
+          "version": {
+            "requires": "2.5.0-alpha12"
+          }
+        },
+        {
+          "group": "io.ktor",
+          "module": "ktor-client-darwin",
+          "version": {
+            "requires": "2.3.10"
+          }
+        },
+        {
+          "group": "com.android.identity",
+          "module": "processor-annotations",
+          "version": {
+            "requires": "202411.1-69-g6ae69e36-dirty"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-io-bytestring",
+          "version": {
+            "requires": "0.4.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-io-core",
+          "version": {
+            "requires": "0.4.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-datetime",
+          "version": {
+            "requires": "0.6.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.8.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-serialization-json",
+          "version": {
+            "requires": "1.7.0"
+          }
+        },
+        {
+          "group": "io.ktor",
+          "module": "ktor-client-core",
+          "version": {
+            "requires": "2.3.10"
+          }
+        },
+        {
+          "group": "io.ktor",
+          "module": "ktor-client-cio",
+          "version": {
+            "requires": "2.3.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.runtime",
+          "module": "runtime",
+          "version": {
+            "requires": "1.7.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "identity-iosx64-202411.1-69-g6ae69e36-dirty-metadata.jar",
+          "url": "identity-iosx64-202411.1-69-g6ae69e36-dirty-metadata.jar",
+          "size": 34821,
+          "sha512": "db10be4716b7f31967b52df75bc33f986bbc70a5441a4bd6728fe7c2c731145954d17ff744d085e40ec018812454d571698c5012f2aad52ac1497e07e0258395",
+          "sha256": "34e4eceb3283da648efe6a8667216b6b7b4c592ed630b77656cc594c182a9846",
+          "sha1": "24783ab29f5f1b6527679da9cce75dfaca5055ff",
+          "md5": "c8c3e1883fa67292984197087ce58da7"
+        }
+      ]
+    }
+  ]
+}
