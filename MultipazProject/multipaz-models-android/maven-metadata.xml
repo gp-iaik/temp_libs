@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>MultipazProject</groupId>
-  <artifactId>multipaz-models</artifactId>
+  <artifactId>multipaz-models-android</artifactId>
   <versioning>
     <latest>undefined</latest>
     <release>undefined</release>
     <versions>
-      <version>unspecified</version>
       <version>undefined</version>
     </versions>
     <lastUpdated>20250326165345</lastUpdated>
