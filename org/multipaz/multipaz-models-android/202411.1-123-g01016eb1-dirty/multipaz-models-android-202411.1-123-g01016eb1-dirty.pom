@@ -6,9 +6,9 @@
   <!-- that they should prefer consuming it instead. -->
   <!-- do_not_remove: published-with-gradle-metadata -->
   <modelVersion>4.0.0</modelVersion>
-  <groupId>MultipazProject</groupId>
+  <groupId>org.multipaz</groupId>
   <artifactId>multipaz-models-android</artifactId>
-  <version>undefined</version>
+  <version>202411.1-123-g01016eb1-dirty</version>
   <packaging>aar</packaging>
   <licenses>
     <license>

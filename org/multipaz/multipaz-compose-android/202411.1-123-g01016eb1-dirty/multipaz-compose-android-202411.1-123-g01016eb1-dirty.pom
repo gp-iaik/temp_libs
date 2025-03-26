@@ -284,9 +284,9 @@
       </exclusions>
     </dependency>
     <dependency>
-      <groupId>MultipazProject</groupId>
+      <groupId>org.multipaz</groupId>
       <artifactId>multipaz-models-android</artifactId>
-      <version>unspecified</version>
+      <version>202411.1-123-g01016eb1-dirty</version>
       <scope>runtime</scope>
       <exclusions>
         <exclusion>

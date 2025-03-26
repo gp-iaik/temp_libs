@@ -1,10 +1,10 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "url": "../../multipaz-models/undefined/multipaz-models-undefined.module",
-    "group": "MultipazProject",
+    "url": "../../multipaz-models/202411.1-123-g01016eb1-dirty/multipaz-models-202411.1-123-g01016eb1-dirty.module",
+    "group": "org.multipaz",
     "module": "multipaz-models",
-    "version": "undefined",
+    "version": "202411.1-123-g01016eb1-dirty",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -35,7 +35,7 @@
       "files": [
         {
           "name": "multipaz-models-release.aar",
-          "url": "multipaz-models-android-undefined.aar",
+          "url": "multipaz-models-android-202411.1-123-g01016eb1-dirty.aar",
           "size": 159791,
           "sha512": "52b917de849459c5e3900b8c0b407d87de5691215ffcb00849b0a476b585c691d712c70dd568be09501a2a4a90b910b910359045173f15f2b548502c0aa0fb40",
           "sha256": "308e60bbe8cb369fde8ea331058c3b6430b2e3677a492f71da550531f6ca4fcf",
@@ -351,7 +351,7 @@
       "files": [
         {
           "name": "multipaz-models-release.aar",
-          "url": "multipaz-models-android-undefined.aar",
+          "url": "multipaz-models-android-202411.1-123-g01016eb1-dirty.aar",
           "size": 159791,
           "sha512": "52b917de849459c5e3900b8c0b407d87de5691215ffcb00849b0a476b585c691d712c70dd568be09501a2a4a90b910b910359045173f15f2b548502c0aa0fb40",
           "sha256": "308e60bbe8cb369fde8ea331058c3b6430b2e3677a492f71da550531f6ca4fcf",
@@ -373,8 +373,8 @@
       },
       "files": [
         {
-          "name": "multipaz-models-android-undefined-sources.jar",
-          "url": "multipaz-models-android-undefined-sources.jar",
+          "name": "multipaz-models-android-202411.1-123-g01016eb1-dirty-sources.jar",
+          "url": "multipaz-models-android-202411.1-123-g01016eb1-dirty-sources.jar",
           "size": 22700,
           "sha512": "1b819842e0d1abc14362b5757729b5847a06bcf1b0b3aec7b7c7f99421abd760f7445fa81eba827e63049c9ab1c777049aab8a5e8cb1613ce9df58d3e55cf2ec",
           "sha256": "d4c7837e14f6b34b6a537f69797355671d245c0a7c8af4eff822d01cd8d40242",

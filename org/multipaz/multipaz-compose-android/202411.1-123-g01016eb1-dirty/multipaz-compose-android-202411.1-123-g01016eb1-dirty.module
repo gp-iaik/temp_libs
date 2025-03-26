@@ -348,10 +348,10 @@
           ]
         },
         {
-          "group": "MultipazProject",
+          "group": "org.multipaz",
           "module": "multipaz-models",
           "version": {
-            "requires": "unspecified"
+            "requires": "202411.1-123-g01016eb1-dirty"
           },
           "excludes": [
             {

@@ -101,10 +101,10 @@
           }
         },
         {
-          "group": "MultipazProject",
+          "group": "org.multipaz",
           "module": "multipaz-models",
           "version": {
-            "requires": "unspecified"
+            "requires": "202411.1-123-g01016eb1-dirty"
           }
         },
         {
@@ -147,11 +147,11 @@
         {
           "name": "multipaz-compose-metadata-202411.1-123-g01016eb1-dirty.jar",
           "url": "multipaz-compose-202411.1-123-g01016eb1-dirty.jar",
-          "size": 30548,
-          "sha512": "bee1b795feacf3f146379a56f3b414e892183cdbfa9f040104cb50ac02ff5345ad127ebb05b9c859836899a0ecf2180a4d8b892962706f32e39848549ddb7844",
-          "sha256": "15b3f807ab9035f871457821b466fa8d5f852017b6b37f0b738e6a0926fa7d7d",
-          "sha1": "53cb517bfb6853a64c405ae1442ecb3bb815306d",
-          "md5": "592898c5de3c9b94622777f607c5e527"
+          "size": 30540,
+          "sha512": "523e97dc41b3e4ff931fa59e33fd5aee8f92b8ac4e9ceff275dbd5003b358477c642d37b8bd7ce8d422f3afedded2a5ca1a79fefaf7085f3c5c5e30ce05ded5b",
+          "sha256": "c2c5ae48eb1568e0845dbd40ac9f4c4c55ec3d6f645192a6a56d2a1919625cc4",
+          "sha1": "27991e83e53f7460da2c1226cee0bea11d508f58",
+          "md5": "64f36416e4f5f08424ffc2462eea242d"
         }
       ]
     },

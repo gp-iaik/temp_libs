@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>org.multipaz</groupId>
-  <artifactId>multipaz-compose</artifactId>
+  <artifactId>multipaz-models-android</artifactId>
   <versioning>
     <latest>202411.1-123-g01016eb1-dirty</latest>
     <release>202411.1-123-g01016eb1-dirty</release>
     <versions>
       <version>202411.1-123-g01016eb1-dirty</version>
     </versions>
-    <lastUpdated>20250326165920</lastUpdated>
+    <lastUpdated>20250326165841</lastUpdated>
   </versioning>
 </metadata>
