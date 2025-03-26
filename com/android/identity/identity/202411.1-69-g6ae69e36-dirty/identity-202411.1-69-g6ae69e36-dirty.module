@@ -141,11 +141,11 @@
         {
           "name": "identity-kotlin-202411.1-69-g6ae69e36-dirty-sources.jar",
           "url": "identity-202411.1-69-g6ae69e36-dirty-sources.jar",
-          "size": 277218,
-          "sha512": "4856a6bba99781b1e4385dc977dab6fdd666fcf3259575cae3439f1f44db661d79406ae3563ff33aaca57dca7c64e5b49194621cd8bdd1bea3561ebb3e1081b7",
-          "sha256": "a086fa5f6ebb95d4fb665c3bbc9e85a7e9d677fb1280a11a31e70c6e234439e6",
-          "sha1": "8128697059fd53571fbeb71e679f0b8bd8f63992",
-          "md5": "aa13ed89fe18bace6c49ae5e9681c424"
+          "size": 277235,
+          "sha512": "52c77c5b2c95b72b6d118b0597667cbe23fd1e470e866ef051ddbf659e9fe17d1894a0e7acd5f4551509b47df0451b7dcaa6db05795b81006e0ace8ddcd75ff5",
+          "sha256": "5a89873e65072ac8f6fbed8c4ce94baff91ec9ab099b31a908d6ee268e72bb64",
+          "sha1": "840f650cd6ff3cbdce6d2c2ada00eca0079866bc",
+          "md5": "4451182f4aecb7ba2757cc65abe28ca7"
         }
       ]
     },

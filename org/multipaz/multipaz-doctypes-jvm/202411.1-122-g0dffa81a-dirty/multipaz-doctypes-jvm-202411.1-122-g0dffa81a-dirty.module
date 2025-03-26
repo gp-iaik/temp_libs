@@ -1,0 +1,151 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../multipaz-doctypes/202411.1-122-g0dffa81a-dirty/multipaz-doctypes-202411.1-122-g0dffa81a-dirty.module",
+    "group": "org.multipaz",
+    "module": "multipaz-doctypes",
+    "version": "202411.1-122-g0dffa81a-dirty",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.6"
+    }
+  },
+  "variants": [
+    {
+      "name": "jvmApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "multipaz-doctypes-jvm-202411.1-122-g0dffa81a-dirty.jar",
+          "url": "multipaz-doctypes-jvm-202411.1-122-g0dffa81a-dirty.jar",
+          "size": 94611,
+          "sha512": "b0d67f09c08f582ffc577c037d6c9e920d6c169b663a7fb13c473725857af28b39d0f64941df14f09c173ff8b35425ff80d8102b1111e457533e1a31d38f3036",
+          "sha256": "69118d13ac99fce1d66c1b341823c6341b94121bddfc59058de7b33ced92b930",
+          "sha1": "7cace0c8bbbd9c86a1f67e2ec7611d0835173db4",
+          "md5": "d66b4ef315d261068530af6a9b2ff8d3"
+        }
+      ]
+    },
+    {
+      "name": "jvmRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.1.0"
+          }
+        },
+        {
+          "group": "org.bouncycastle",
+          "module": "bcprov-jdk18on",
+          "version": {
+            "requires": "1.78.1"
+          }
+        },
+        {
+          "group": "org.bouncycastle",
+          "module": "bcpkix-jdk18on",
+          "version": {
+            "requires": "1.78.1"
+          }
+        },
+        {
+          "group": "com.google.crypto.tink",
+          "module": "tink-android",
+          "version": {
+            "requires": "1.13.0"
+          }
+        },
+        {
+          "group": "org.multipaz",
+          "module": "multipaz",
+          "version": {
+            "requires": "202411.1-122-g0dffa81a-dirty"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-datetime",
+          "version": {
+            "requires": "0.6.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-io-bytestring",
+          "version": {
+            "requires": "0.4.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-serialization-json",
+          "version": {
+            "requires": "1.7.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "multipaz-doctypes-jvm-202411.1-122-g0dffa81a-dirty.jar",
+          "url": "multipaz-doctypes-jvm-202411.1-122-g0dffa81a-dirty.jar",
+          "size": 94611,
+          "sha512": "b0d67f09c08f582ffc577c037d6c9e920d6c169b663a7fb13c473725857af28b39d0f64941df14f09c173ff8b35425ff80d8102b1111e457533e1a31d38f3036",
+          "sha256": "69118d13ac99fce1d66c1b341823c6341b94121bddfc59058de7b33ced92b930",
+          "sha1": "7cace0c8bbbd9c86a1f67e2ec7611d0835173db4",
+          "md5": "d66b4ef315d261068530af6a9b2ff8d3"
+        }
+      ]
+    },
+    {
+      "name": "jvmSourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "multipaz-doctypes-jvm-202411.1-122-g0dffa81a-dirty-sources.jar",
+          "url": "multipaz-doctypes-jvm-202411.1-122-g0dffa81a-dirty-sources.jar",
+          "size": 38551,
+          "sha512": "459bda3843da5b1d67eac081a0dcd34bedcdc76af3f510f71b489a83fd4bd2c67bffb9fc3505cf983eac6e5f8b6f19db1c05789a85c024c692c1d9595d08214f",
+          "sha256": "ccbe1d9b18a962a78db369112712595996f61977c8ae14f7c45b176f210c205f",
+          "sha1": "5a17b92740fdca41b3d9bd09ea5be676ef67d538",
+          "md5": "7529c8de3febb05e03dea72a3e900628"
+        }
+      ]
+    }
+  ]
+}

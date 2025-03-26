@@ -1,0 +1,275 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.multipaz",
+    "module": "multipaz-cbor-rpc-annotations",
+    "version": "202411.1-122-g0dffa81a-dirty",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.6"
+    }
+  },
+  "variants": [
+    {
+      "name": "metadataApiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.platform.type": "common"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "multipaz-cbor-rpc-annotations-metadata-202411.1-122-g0dffa81a-dirty.jar",
+          "url": "multipaz-cbor-rpc-annotations-202411.1-122-g0dffa81a-dirty.jar",
+          "size": 7046,
+          "sha512": "b0f77d69661af371624ce67f7690c35b2ffc8b30b583d244e3816923276b9b980dc3346bfbf0d167b32c6b4c166635a219982565f8cb18f6a5a313c641fc9648",
+          "sha256": "bf167038ddfbea9f488f58db731cb301fb403f147f97a336d47a281042b141b9",
+          "sha1": "5e10ab03ef7040f7a5b85f88f74d4600024a7236",
+          "md5": "5790c18d24d96abad767e371d8ecc808"
+        }
+      ]
+    },
+    {
+      "name": "metadataSourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.platform.type": "common"
+      },
+      "files": [
+        {
+          "name": "multipaz-cbor-rpc-annotations-kotlin-202411.1-122-g0dffa81a-dirty-sources.jar",
+          "url": "multipaz-cbor-rpc-annotations-202411.1-122-g0dffa81a-dirty-sources.jar",
+          "size": 6116,
+          "sha512": "2698aa37b056322ed325d2d933d57bfcbadc85938b3d1b457ffcc2f0e804c60971856ffd58566de72e5568ec8ac77e16e27fb5a6f01028a53ff5a37528e91c8f",
+          "sha256": "deac9c6012f310725d993c04c0973f83a7e76f42c8b4792e4d0a03c05ca45a31",
+          "sha1": "6158eef4c13d2df57538c185b20fdd881b9b897a",
+          "md5": "3a9571e8ffad0abc8ba857871d7ed62c"
+        }
+      ]
+    },
+    {
+      "name": "iosArm64ApiElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "ios_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../multipaz-cbor-rpc-annotations-iosarm64/202411.1-122-g0dffa81a-dirty/multipaz-cbor-rpc-annotations-iosarm64-202411.1-122-g0dffa81a-dirty.module",
+        "group": "org.multipaz",
+        "module": "multipaz-cbor-rpc-annotations-iosarm64",
+        "version": "202411.1-122-g0dffa81a-dirty"
+      }
+    },
+    {
+      "name": "iosArm64SourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.native.target": "ios_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../multipaz-cbor-rpc-annotations-iosarm64/202411.1-122-g0dffa81a-dirty/multipaz-cbor-rpc-annotations-iosarm64-202411.1-122-g0dffa81a-dirty.module",
+        "group": "org.multipaz",
+        "module": "multipaz-cbor-rpc-annotations-iosarm64",
+        "version": "202411.1-122-g0dffa81a-dirty"
+      }
+    },
+    {
+      "name": "iosArm64MetadataElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "ios_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../multipaz-cbor-rpc-annotations-iosarm64/202411.1-122-g0dffa81a-dirty/multipaz-cbor-rpc-annotations-iosarm64-202411.1-122-g0dffa81a-dirty.module",
+        "group": "org.multipaz",
+        "module": "multipaz-cbor-rpc-annotations-iosarm64",
+        "version": "202411.1-122-g0dffa81a-dirty"
+      }
+    },
+    {
+      "name": "iosSimulatorArm64ApiElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "ios_simulator_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../multipaz-cbor-rpc-annotations-iossimulatorarm64/202411.1-122-g0dffa81a-dirty/multipaz-cbor-rpc-annotations-iossimulatorarm64-202411.1-122-g0dffa81a-dirty.module",
+        "group": "org.multipaz",
+        "module": "multipaz-cbor-rpc-annotations-iossimulatorarm64",
+        "version": "202411.1-122-g0dffa81a-dirty"
+      }
+    },
+    {
+      "name": "iosSimulatorArm64SourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.native.target": "ios_simulator_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../multipaz-cbor-rpc-annotations-iossimulatorarm64/202411.1-122-g0dffa81a-dirty/multipaz-cbor-rpc-annotations-iossimulatorarm64-202411.1-122-g0dffa81a-dirty.module",
+        "group": "org.multipaz",
+        "module": "multipaz-cbor-rpc-annotations-iossimulatorarm64",
+        "version": "202411.1-122-g0dffa81a-dirty"
+      }
+    },
+    {
+      "name": "iosSimulatorArm64MetadataElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "ios_simulator_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../multipaz-cbor-rpc-annotations-iossimulatorarm64/202411.1-122-g0dffa81a-dirty/multipaz-cbor-rpc-annotations-iossimulatorarm64-202411.1-122-g0dffa81a-dirty.module",
+        "group": "org.multipaz",
+        "module": "multipaz-cbor-rpc-annotations-iossimulatorarm64",
+        "version": "202411.1-122-g0dffa81a-dirty"
+      }
+    },
+    {
+      "name": "iosX64ApiElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "ios_x64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../multipaz-cbor-rpc-annotations-iosx64/202411.1-122-g0dffa81a-dirty/multipaz-cbor-rpc-annotations-iosx64-202411.1-122-g0dffa81a-dirty.module",
+        "group": "org.multipaz",
+        "module": "multipaz-cbor-rpc-annotations-iosx64",
+        "version": "202411.1-122-g0dffa81a-dirty"
+      }
+    },
+    {
+      "name": "iosX64SourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.native.target": "ios_x64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../multipaz-cbor-rpc-annotations-iosx64/202411.1-122-g0dffa81a-dirty/multipaz-cbor-rpc-annotations-iosx64-202411.1-122-g0dffa81a-dirty.module",
+        "group": "org.multipaz",
+        "module": "multipaz-cbor-rpc-annotations-iosx64",
+        "version": "202411.1-122-g0dffa81a-dirty"
+      }
+    },
+    {
+      "name": "iosX64MetadataElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "ios_x64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../multipaz-cbor-rpc-annotations-iosx64/202411.1-122-g0dffa81a-dirty/multipaz-cbor-rpc-annotations-iosx64-202411.1-122-g0dffa81a-dirty.module",
+        "group": "org.multipaz",
+        "module": "multipaz-cbor-rpc-annotations-iosx64",
+        "version": "202411.1-122-g0dffa81a-dirty"
+      }
+    },
+    {
+      "name": "jvmApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "available-at": {
+        "url": "../../multipaz-cbor-rpc-annotations-jvm/202411.1-122-g0dffa81a-dirty/multipaz-cbor-rpc-annotations-jvm-202411.1-122-g0dffa81a-dirty.module",
+        "group": "org.multipaz",
+        "module": "multipaz-cbor-rpc-annotations-jvm",
+        "version": "202411.1-122-g0dffa81a-dirty"
+      }
+    },
+    {
+      "name": "jvmRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "available-at": {
+        "url": "../../multipaz-cbor-rpc-annotations-jvm/202411.1-122-g0dffa81a-dirty/multipaz-cbor-rpc-annotations-jvm-202411.1-122-g0dffa81a-dirty.module",
+        "group": "org.multipaz",
+        "module": "multipaz-cbor-rpc-annotations-jvm",
+        "version": "202411.1-122-g0dffa81a-dirty"
+      }
+    },
+    {
+      "name": "jvmSourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "available-at": {
+        "url": "../../multipaz-cbor-rpc-annotations-jvm/202411.1-122-g0dffa81a-dirty/multipaz-cbor-rpc-annotations-jvm-202411.1-122-g0dffa81a-dirty.module",
+        "group": "org.multipaz",
+        "module": "multipaz-cbor-rpc-annotations-jvm",
+        "version": "202411.1-122-g0dffa81a-dirty"
+      }
+    }
+  ]
+}

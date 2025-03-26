@@ -1,0 +1,193 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../multipaz/202411.1-122-g0dffa81a-dirty/multipaz-202411.1-122-g0dffa81a-dirty.module",
+    "group": "org.multipaz",
+    "module": "multipaz",
+    "version": "202411.1-122-g0dffa81a-dirty",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.6"
+    }
+  },
+  "variants": [
+    {
+      "name": "jvmApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "multipaz-jvm-202411.1-122-g0dffa81a-dirty.jar",
+          "url": "multipaz-jvm-202411.1-122-g0dffa81a-dirty.jar",
+          "size": 1678213,
+          "sha512": "4b10bd6e1e97eb6a64439a24b32dcc063c14b7b392e64e50bf0911ab4c717047673af1bc7ca6662a1097bf0d91a35fc9705db1309e17451995d66b0cdd96ae89",
+          "sha256": "74addbf4d4082bad367b66c8f69c2d5b100461651fdc4099551c2c5d8f4eb117",
+          "sha1": "494ee21debc5068a355c7b1d908a1393b823c2cd",
+          "md5": "a4b57451594453e99a02595a942313e3"
+        }
+      ]
+    },
+    {
+      "name": "jvmRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.1.0"
+          }
+        },
+        {
+          "group": "org.bouncycastle",
+          "module": "bcprov-jdk18on",
+          "version": {
+            "requires": "1.78.1"
+          }
+        },
+        {
+          "group": "org.bouncycastle",
+          "module": "bcpkix-jdk18on",
+          "version": {
+            "requires": "1.78.1"
+          }
+        },
+        {
+          "group": "com.google.crypto.tink",
+          "module": "tink-android",
+          "version": {
+            "requires": "1.13.0"
+          }
+        },
+        {
+          "group": "org.multipaz",
+          "module": "multipaz-cbor-rpc-annotations",
+          "version": {
+            "requires": "202411.1-122-g0dffa81a-dirty"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-io-bytestring",
+          "version": {
+            "requires": "0.4.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-io-core",
+          "version": {
+            "requires": "0.4.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-datetime",
+          "version": {
+            "requires": "0.6.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.8.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-serialization-json",
+          "version": {
+            "requires": "1.7.0"
+          }
+        },
+        {
+          "group": "io.ktor",
+          "module": "ktor-client-core",
+          "version": {
+            "requires": "2.3.10"
+          }
+        },
+        {
+          "group": "io.ktor",
+          "module": "ktor-client-cio",
+          "version": {
+            "requires": "2.3.10"
+          }
+        },
+        {
+          "group": "com.nimbusds",
+          "module": "oauth2-oidc-sdk",
+          "version": {
+            "requires": "11.8"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.runtime",
+          "module": "runtime",
+          "version": {
+            "requires": "1.7.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "multipaz-jvm-202411.1-122-g0dffa81a-dirty.jar",
+          "url": "multipaz-jvm-202411.1-122-g0dffa81a-dirty.jar",
+          "size": 1678213,
+          "sha512": "4b10bd6e1e97eb6a64439a24b32dcc063c14b7b392e64e50bf0911ab4c717047673af1bc7ca6662a1097bf0d91a35fc9705db1309e17451995d66b0cdd96ae89",
+          "sha256": "74addbf4d4082bad367b66c8f69c2d5b100461651fdc4099551c2c5d8f4eb117",
+          "sha1": "494ee21debc5068a355c7b1d908a1393b823c2cd",
+          "md5": "a4b57451594453e99a02595a942313e3"
+        }
+      ]
+    },
+    {
+      "name": "jvmSourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "multipaz-jvm-202411.1-122-g0dffa81a-dirty-sources.jar",
+          "url": "multipaz-jvm-202411.1-122-g0dffa81a-dirty-sources.jar",
+          "size": 429378,
+          "sha512": "adaf1a144cd31fda3e301277e341aefa13f6c777e1e05e3a0473f98065e9f6f031029d0e08ba5e1724235cac5c2f46cd573ada355b7f603d19a12f7803583a65",
+          "sha256": "09518ab247b58243bde4a179dc3727512fcf98df3a679676080e0201282c6059",
+          "sha1": "05e8ffb11b7464b2fdbb2876ca60119d89976eb7",
+          "md5": "13b97851f7b65cc8b498fe7f9b7d0dd8"
+        }
+      ]
+    }
+  ]
+}

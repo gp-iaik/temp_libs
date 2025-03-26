@@ -37,11 +37,11 @@
         {
           "name": "identity-jvm-202411.1-69-g6ae69e36-dirty.jar",
           "url": "identity-jvm-202411.1-69-g6ae69e36-dirty.jar",
-          "size": 993096,
-          "sha512": "82fde0dc829fe72004a19eb6df78a480e4642fb026c8c4084442d10eee5d5ed2a11791e907a40475e022d6ebf71e4db89f0ec0ed486ce13ff180284ba00567e9",
-          "sha256": "0739143999a7357b721b4a15f1097c0d42b7d1a4301cb320da995787a38989a6",
-          "sha1": "3cc5391e24327f657b6a14627f722a57ac92a095",
-          "md5": "0b9a530552439de95b3a48bb0fdbcc27"
+          "size": 993004,
+          "sha512": "0b6bc8c3161791296b333c3c88de9178c4c6d66f641e3d6b4ba7f086c146d12af9d0e20b08d4c982998ae360f86278d03edd8e44245c8530f714f392db982115",
+          "sha256": "93e1cecfdcdfe75eed40995ee70fff0d40ad496807543dc5d2979a92b431be2b",
+          "sha1": "7a3cf28e8a22bf8caa59a10533441a7479d5ac60",
+          "md5": "ed9211b1d54a249e4838b9dec1a6787c"
         }
       ]
     },
@@ -151,11 +151,11 @@
         {
           "name": "identity-jvm-202411.1-69-g6ae69e36-dirty.jar",
           "url": "identity-jvm-202411.1-69-g6ae69e36-dirty.jar",
-          "size": 993096,
-          "sha512": "82fde0dc829fe72004a19eb6df78a480e4642fb026c8c4084442d10eee5d5ed2a11791e907a40475e022d6ebf71e4db89f0ec0ed486ce13ff180284ba00567e9",
-          "sha256": "0739143999a7357b721b4a15f1097c0d42b7d1a4301cb320da995787a38989a6",
-          "sha1": "3cc5391e24327f657b6a14627f722a57ac92a095",
-          "md5": "0b9a530552439de95b3a48bb0fdbcc27"
+          "size": 993004,
+          "sha512": "0b6bc8c3161791296b333c3c88de9178c4c6d66f641e3d6b4ba7f086c146d12af9d0e20b08d4c982998ae360f86278d03edd8e44245c8530f714f392db982115",
+          "sha256": "93e1cecfdcdfe75eed40995ee70fff0d40ad496807543dc5d2979a92b431be2b",
+          "sha1": "7a3cf28e8a22bf8caa59a10533441a7479d5ac60",
+          "md5": "ed9211b1d54a249e4838b9dec1a6787c"
         }
       ]
     },
@@ -174,11 +174,11 @@
         {
           "name": "identity-jvm-202411.1-69-g6ae69e36-dirty-sources.jar",
           "url": "identity-jvm-202411.1-69-g6ae69e36-dirty-sources.jar",
-          "size": 264865,
-          "sha512": "990cb8967b4dc08bcfbd8957cb13642427960e57028e61a064de1582692192e5f27e94f0fe49115333ce1c3a83073252f5420c44444c1757a70bfc71d75b2956",
-          "sha256": "6ef3fa0443a10fb16fe22963a03571e07888e57d8950aff5935995e8d90f6b71",
-          "sha1": "93ba5dd9a1a05bd097f237ed8e7175a8f80831aa",
-          "md5": "31b5929157bb4c373ea17e28e1908f47"
+          "size": 264882,
+          "sha512": "64bb19b29261d81b417fc4e390a8dd6902b7cd0aeb83701e702b16509117a13760a5f1d3b917043a5aa146c6f561b13bc66b5c9dfdc753eafde70b980ae9eb4b",
+          "sha256": "b6c3c045c6ea0e7fec6bb7f9416dcf96bf4e1d2ebaaac92a5f54a5ef92a86308",
+          "sha1": "1b68248a667b5137c9f9f5de0509a1202ad9c4f2",
+          "md5": "8dadac166c4c1ac1cdf9bdee1438357d"
         }
       ]
     }
