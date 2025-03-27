@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>org.multipaz</groupId>
-  <artifactId>multipaz-jvm</artifactId>
+  <artifactId>multipaz-android</artifactId>
   <versioning>
     <latest>202411.1-124-g24338f82-dirty</latest>
     <release>202411.1-124-g24338f82-dirty</release>
     <versions>
-      <version>202411.1-122-g0dffa81a</version>
       <version>202411.1-124-g24338f82-dirty</version>
     </versions>
-    <lastUpdated>20250327125301</lastUpdated>
+    <lastUpdated>20250327125302</lastUpdated>
   </versioning>
 </metadata>

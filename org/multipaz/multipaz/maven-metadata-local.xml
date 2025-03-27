@@ -3,11 +3,12 @@
   <groupId>org.multipaz</groupId>
   <artifactId>multipaz</artifactId>
   <versioning>
-    <latest>202411.1-122-g0dffa81a</latest>
-    <release>202411.1-122-g0dffa81a</release>
+    <latest>202411.1-124-g24338f82-dirty</latest>
+    <release>202411.1-124-g24338f82-dirty</release>
     <versions>
       <version>202411.1-122-g0dffa81a</version>
+      <version>202411.1-124-g24338f82-dirty</version>
     </versions>
-    <lastUpdated>20250326105258</lastUpdated>
+    <lastUpdated>20250327125256</lastUpdated>
   </versioning>
 </metadata>
